@@ -6,7 +6,7 @@ background: linear-gradient(287.56deg, #808080 0%, #fff 100%);
 }
 .search-box {
 position: absolute;
-top: 5%;
+top: 8%;
 left: 50%;
 transform: translate(-50% , -50%);
 }
